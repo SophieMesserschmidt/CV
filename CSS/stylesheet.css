@@ -1,0 +1,44 @@
+body{
+  font-family: "helvetica";
+}
+
+.Überschrift {
+font-size: 60px;
+text-align:center;
+}
+
+.itsme {
+  text-align: center;
+}
+
+.image {
+  display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.Name {
+   text-align: center;
+   font-kerning: 40;
+   letter-spacing: 0;
+   padding: 20px;
+}
+
+.birth {
+  margin-left: 495px;‚
+}
+.adress {
+  text-align: right;
+  margin-right: 490px;
+}
+.street {
+  text-align: right;
+  margin-right: 490px;
+}
+.plz {
+  margin-left: 655px;
+}
+.mail {
+  margin-left: 495px;
+}
